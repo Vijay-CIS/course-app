@@ -6,7 +6,7 @@
       "title": "Programming Fundamentals123",
       "type": "theory",
       "sem": "1",
-      "credits": "4",
+      "credits": "4"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "title": "Java",
       "type": "lab",
       "sem": "1",
-      "credits": "5",
+      "credits": "5"
     },
      {
       "id": 3,
@@ -22,7 +22,7 @@
       "title": "Java Programs",
        "type": "theory",
        "sem": "2",
-       "credits": "4",
+       "credits": "4"
     }
   ],
   "course_details": [],
