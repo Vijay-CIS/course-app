@@ -4,16 +4,19 @@
       "id": 1,
       "code": "CU101",
       "title": "Programming Fundamentals123"
+      "type":"theory"
     },
     {
       "id": 2,
       "code": "CU102",
       "title": "Java"
+      "type":"lab"
     },
      {
       "id": 3,
       "code": "CU103",
       "title": "Java Programs"
+       "type":"theory"
     }
   ],
   "course_details": [],
