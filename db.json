@@ -10,6 +10,11 @@
       "code": "CU102",
       "title": "Java"
     }
+     {
+      "id": 3,
+      "code": "CU103",
+      "title": "Java Programs"
+    }
   ],
   "course_details": [],
   "categories": []
